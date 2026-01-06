@@ -1,3 +1,3 @@
-## Olá, eu sou o Gonzalez 👋
-- 🌱 Eu estou aprendendo HTML/CSS/Java Script
+## Olá, sou o Gonzalez 👋
+- 🌱 Eu estou aprendendo... 🙌
 - 🌏 https://www.cursoemvideo.com/blog/hall-da-fama/gonzalez-feldhaus-goulart/
